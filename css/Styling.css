@@ -2,3 +2,8 @@ body{
     font-family:'initial';
     color: black;
 }
+#Calculator{
+    width: 30px;
+    background-color: antiquewhite;
+    text-align: center;
+}
